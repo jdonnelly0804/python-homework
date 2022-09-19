@@ -1,4 +1,4 @@
 ## Python-Homework
 
-*Go to instructions--> main.ipynb
-*Output.txt
+-Go to instructions--> main.ipynb
+-Output.txt
